@@ -1,4 +1,4 @@
-#creating array of 10 element and deleting one 
+// #creating array of 10 element and deleting one 
 import java.util.Scanner;
 
 public class dArray {
